@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="fakebook website">
+<meta name="keywords" content="fakebook">
+<meta name="author" content="Gabriel Natividad">
+    <title>FAKEBOOK</title>
+</head>
+<body>
+<h1>
+    <i> FAKEBOOK </i>
+
+</h1>
+
+ Search: <td> <input type="search" placeholder="Search by name"> </td>
+
+<h2>Gabriel Natividad</h2>
+<br>
+<img src="https://hips.hearstapps.com/sev.h-cdn.co/assets/15/13/640x412/gallery-1427213846-the-ring-girl.jpg?resize=768:*"
+
+<br>
+
+<br>
+<table>
+    <tr>
+        <td> <button> Add as a friend</button> </td>
+        <td> <button> Like </button> </td>
+        <td> <button> Follow </button> </td>
+    </tr>
+</table>
+
+
+<br>
+<p>
+    <strong> City: </strong>
+    Winnipeg
+</p>
+<p>
+    <strong> Age: </strong>
+    20+
+</p>
+<p>
+    <strong> Education: </strong>
+    Ninja University
+</p>
+<p>
+    <strong> Hobby: </strong>
+    Starring
+</p>
+<p>
+    <strong> Friends: </strong>
+    10000000+
+</p>
+<p>
+    <strong> Enemies: </strong>
+    -999
+</p>
+
+
+
+
+
+
+
+</body>
+</html>
